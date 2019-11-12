@@ -1,0 +1,21 @@
+########################################
+General info
+########################################
+Number of repos: 1010
+Number of tags: 5193
+Number of images: 8657
+Images tagged 'latest': 1049
+########################################
+Architectures
+########################################
+ARM images: 1103 12.74% of total
+ARM 64 images: 908 10.49% of total
+PowerPC 64 LE images: 665 7.68% of total
+x86 images: 521 6.02% of total
+x86-64 images: 4041 46.68% of total
+s390x images: 1403 16.21% of total
+########################################
+Operating systems
+########################################
+Linux images: 8467 97.81% of total
+Windows images: 147 1.7% of total
